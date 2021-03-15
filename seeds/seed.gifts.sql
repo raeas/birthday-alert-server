@@ -1,4 +1,4 @@
-insert into gifts (gift, person)
+insert into gifts (gift_name, person)
 values
   ('Wallet', 5),
   ('Mug', 3),
