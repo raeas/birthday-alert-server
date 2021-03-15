@@ -1,0 +1,29 @@
+const GiftsService = {
+  getAllGifts(knex) {
+    return knex.select('*').from('gifts')
+  },
+  getGiftById(knex, id) {
+    return knex.from('gifts').select('*').where('id', id).first()
+  },
+  insertGift(knex, newGift) {
+    return knex
+      .insert(newGift)
+      .into('gifts')
+      .returning('*')
+      .then(rows => {
+        return rows[0]
+      })
+  },
+  deleteGift(knex, id) {
+    return knex('gifts')
+      .where({ id })
+      .delete()
+  },
+  updatePerson(knex, id, updatedGift) {
+    return knex('gifts')
+      .where({ id })
+      .update(updatedPerson)
+  },
+}
+
+module.exports = GiftsService
