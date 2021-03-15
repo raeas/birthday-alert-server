@@ -1,0 +1,22 @@
+{"message":"BooksService is not defined","level":"error"}
+{"message":"Person with id 11 created.","level":"info"}
+{"message":"serializeBook is not defined","level":"error"}
+{"message":"Person with id 12 created.","level":"info"}
+{"message":"update \"books\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - relation \"books\" does not exist","level":"error"}
+{"message":"Cannot read property 'id' of undefined","level":"error"}
+{"message":"Cannot read property 'id' of undefined","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"person_id\" = $4 - column \"person_id\" does not exist","level":"error"}
+{"message":"Cannot read property 'id' of undefined","level":"error"}
+{"message":"Cannot read property 'id' of undefined","level":"error"}
+{"message":"Cannot read property 'id' of undefined","level":"error"}
+{"message":"Cannot read property 'id' of undefined","level":"error"}
+{"message":"Cannot read property 'id' of undefined","level":"error"}
+{"message":"person_id is not defined","level":"error"}
+{"message":"person_id is not defined","level":"error"}
+{"message":"Cannot read property 'id' of undefined","level":"error"}
+{"message":"person_id is not defined","level":"error"}
+{"message":"Cannot read property 'id' of undefined","level":"error"}
+{"message":"Cannot read property 'id' of undefined","level":"error"}
+{"message":"Cannot read property 'id' of undefined","level":"error"}
+{"message":"Cannot read property 'id' of undefined","level":"error"}
+{"message":"Cannot read property 'id' of undefined","level":"error"}

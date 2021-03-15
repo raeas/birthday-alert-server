@@ -6,6 +6,8 @@ const helmet = require('helmet');
 const errorHandler = require('./error-handler')
 const { NODE_ENV } = require('./config');
 const {CLIENT_ORIGIN} = require('./config');
+const peopleRouter = require('./people/people-router')
+const giftsRouter = require('./gifts/gifts-router')
 
 const app = express()
 
@@ -19,6 +21,9 @@ app.use(cors(
     {origin: CLIENT_ORIGIN}  
   )
 )
+
+app.use(peopleRouter)
+app.use(giftsRouter)
 
 app.get('/', (req, res) => {
   res.send('Hello, world!')
