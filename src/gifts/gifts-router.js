@@ -10,7 +10,7 @@ const bodyParser = express.json()
 
 const serializeGift = gift => ({
   id: gift.id,
-  gift: xss(gift.gift),
+  gift_name: xss(gift.gift_name),
 })
 
 giftsRouter
@@ -25,7 +25,7 @@ giftsRouter
       .catch(next)
   })
   .post(bodyParser, (req, res, next) => {
-    for (const field of ['first_name', 'birthday']) {
+    for (const field of ['gift_name']) {
       if (!(field in req.body)) {
         logger.error(`${field} is required`)
         return res.status(400).send({
@@ -33,67 +33,67 @@ giftsRouter
         })
       }
     }
-    PeopleService.insertPerson(
+    GiftsService.insertGift(
       req.app.get('db'),
       req.body
     )
-      .then(person => {
-        logger.info(`Person with id ${person.id} created.`)
+      .then(gift => {
+        logger.info(`Person with id ${gift.id} created.`)
         res
           .status(201)
-          .location(path.posix.join(req.originalUrl) + `/${person.id}`)
-          .json(serializePerson(person))
+          .location(path.posix.join(req.originalUrl) + `/${gift.id}`)
+          .json(serializeGift(gift))
       })
       .catch(next)
   })
 
 giftsRouter
-  .route('/api/people/:person_id')
+  .route('/api/gifts/:gift_id')
   .all((req, res, next) => {
-    const { person_id } = req.params
-    PeopleService.getPersonById(
+    const { gift_id } = req.params
+    GiftsService.getGiftById(
       req.app.get('db'),
-      person_id
+      gift_id
     )
-    .then(person => {
-      if (!person) {
-        logger.error(`Person with id ${person_id} not found`)
+    .then(gift => {
+      if (!gift) {
+        logger.error(`Gift with id ${gift_id} not found`)
         return res.status(404).json({
-          error: { message: `Person not found`}
+          error: { message: `Gift not found`}
         })
       }
-      res.person = person
+      res.gift = gift
       next()
     })
     .catch(next)
   })
   .get((req,res, next) => {
-    res.json(serializePerson(res.person))
+    res.json(serializeGift(res.gift))
   })
 
   .patch(bodyParser, (req, res, next) => {
-    const { first_name, last_name, birthday } = req.body
-    const personToUpdate = { first_name, last_name, birthday }
+    const { gift_name } = req.body
+    const giftToUpdate = { gift_name }
 
-    const values = Object.values(personToUpdate).filter(Boolean).length
+    const values = Object.values(giftToUpdate).filter(Boolean).length
 
     if (values === 0) {
       logger.error(`Invalid update without required fields`)
       return res.status(400).json({
-        error: { message: `Request body must contain either 'first name' or 'birthday'. `}
+        error: { message: `Request body must contain 'gift name'. `}
       })
     }
 
-    const error = getPeopleValidationError
+    const error = getGiftsValidationError
     
     if (error) return res.status(400).send(error)
 
-    PeopleService.updatePerson(
+    GiftsService.updateGift(
       req.app.get('db'),
-      req.params.person_id,
-      personToUpdate
+      req.params.gift_id,
+      giftToUpdate
     )
-      .then(updatedPerson => {
+      .then(updatedGift => {
         res.status(204).end()
       })
       // .then(updatedPerson => {
@@ -102,9 +102,9 @@ giftsRouter
       .catch(next)
   })
   .delete((req, res, next) => {
-    PeopleService.deletePerson(
+    GiftsService.deleteGift(
       req.app.get('db'),
-      req.params.person_id
+      req.params.gift_id
     )
     .then(() => {
       res.status(204).end()

@@ -19,10 +19,10 @@ const GiftsService = {
       .where({ id })
       .delete()
   },
-  updatePerson(knex, id, updatedGift) {
+  updateGift(knex, id, updatedGift) {
     return knex('gifts')
       .where({ id })
-      .update(updatedPerson)
+      .update(updatedGift)
   },
 }
 

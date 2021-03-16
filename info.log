@@ -20,3 +20,12 @@
 {"message":"Cannot read property 'id' of undefined","level":"error"}
 {"message":"Cannot read property 'id' of undefined","level":"error"}
 {"message":"Cannot read property 'id' of undefined","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\") values ($1) returning * - null value in column \"person\" of relation \"gifts\" violates not-null constraint","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person_id\") values ($1, $2) returning * - column \"person_id\" of relation \"gifts\" does not exist","level":"error"}
+{"message":"Person with id 52 created.","level":"info"}
+{"message":"serializePerson is not defined","level":"error"}
+{"message":"Person with id 53 created.","level":"info"}
+{"message":"serializePerson is not defined","level":"error"}
+{"message":"GiftsService.updateGift is not a function","level":"error"}
+{"message":"updatedPerson is not defined","level":"error"}
+{"message":"delete from \"people\" where \"id\" = $1 - update or delete on table \"people\" violates foreign key constraint \"gifts_person_fkey\" on table \"gifts\"","level":"error"}
