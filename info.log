@@ -89,3 +89,49 @@
 {"message":"Person with id 123456 not found","level":"error"}
 {"message":"Person with id 123456 not found","level":"error"}
 {"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\") values ($1) returning * - null value in column \"person\" of relation \"gifts\" violates not-null constraint","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\") values ($1) returning * - null value in column \"person\" of relation \"gifts\" violates not-null constraint","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\") values ($1) returning * - null value in column \"person\" of relation \"gifts\" violates not-null constraint","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\") values ($1) returning * - null value in column \"person\" of relation \"gifts\" violates not-null constraint","level":"error"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
