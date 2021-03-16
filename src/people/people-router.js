@@ -82,7 +82,7 @@ peopleRouter
     if (values === 0) {
       logger.error(`Invalid update without required fields`)
       return res.status(400).json({
-        error: { message: `Request body must contain either 'first name' or 'birthday'. `}
+        error: { message: `Request body must contain either 'first name' or 'birthday'.`}
       })
     }
 

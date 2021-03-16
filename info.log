@@ -40,3 +40,52 @@
 {"message":"Person with id 13 created.","level":"info"}
 {"message":"Person with id 57 created.","level":"info"}
 {"message":"Person with id 58 created.","level":"info"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
