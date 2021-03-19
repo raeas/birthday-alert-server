@@ -135,3 +135,1602 @@
 {"message":"Person with id 123456 not found","level":"error"}
 {"message":"Person with id 123456 not found","level":"error"}
 {"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"select * from \"people\" where \"id\" = $1 limit $2 - invalid input syntax for type integer: \"person.2\"","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"bdate\" = $3 where \"id\" = $4 - column \"bdate\" of relation \"people\" does not exist","level":"error"}
+{"message":"update \"people\" set \"bdate\" = $1 where \"id\" = $2 - column \"bdate\" of relation \"people\" does not exist","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"bdate\" = $2 where \"id\" = $3 - column \"bdate\" of relation \"people\" does not exist","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"insert into \"people\" (\"birthday\", \"first_name\", \"last_name\") values ($1, $2, $3) returning * - time zone \"gmt-0700\" not recognized","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"database \"birthday-alert\" does not exist","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"update \"people\" set \"first_name\" = $1, \"last_name\" = $2, \"birthday\" = $3 where \"id\" = $4 - time zone \"gmt-0600\" not recognized","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"person is required","level":"error"}
+{"message":"person is required","level":"error"}
+{"message":"person is required","level":"error"}
+{"message":"person is required","level":"error"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - insert or update on table \"gifts\" violates foreign key constraint \"gifts_person_fkey\"","level":"error"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - duplicate key value violates unique constraint \"gifts_pkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - duplicate key value violates unique constraint \"gifts_pkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - duplicate key value violates unique constraint \"gifts_pkey\"","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - duplicate key value violates unique constraint \"gifts_pkey\"","level":"error"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"insert into \"gifts\" (\"gift_name\", \"person\") values ($1, $2) returning * - duplicate key value violates unique constraint \"gifts_pkey\"","level":"error"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 11 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 11 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Person with id 11 created.","level":"info"}
+{"message":"gift_name is required","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Gift with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 1 created.","level":"info"}
+{"message":"first_name is required","level":"error"}
+{"message":"birthday is required","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Person with id 123456 not found","level":"error"}
+{"message":"Invalid update without required fields","level":"error"}

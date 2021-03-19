@@ -11,6 +11,7 @@ const bodyParser = express.json()
 const serializeGift = gift => ({
   id: gift.id,
   gift_name: xss(gift.gift_name),
+  person: gift.person
 })
 
 giftsRouter
@@ -25,7 +26,7 @@ giftsRouter
       .catch(next)
   })
   .post(bodyParser, (req, res, next) => {
-    for (const field of ['gift_name']) {
+    for (const field of ['gift_name', 'person']) {
       if (!(field in req.body)) {
         logger.error(`${field} is required`)
         return res.status(400).send({
@@ -80,7 +81,7 @@ giftsRouter
     if (values === 0) {
       logger.error(`Invalid update without required fields`)
       return res.status(400).json({
-        error: { message: `Request body must contain 'gift name'. `}
+        error: { message: `Request body must contain 'gift name'.`}
       })
     }
 

@@ -3,6 +3,7 @@ const knex = require('knex')
 const supertest = require('supertest')
 const app = require('../src/app')
 const { makeGiftsArray } = require('./gifts.fixtures')
+const { makePeopleArray } = require('./people.fixtures')
 
 describe('Gifts Endpoints', function() {
   let db
@@ -17,9 +18,9 @@ describe('Gifts Endpoints', function() {
 
   after('disconnect from db', () => db.destroy())
 
-  before('clean the table', () => db('gifts'))
+  before('clean the table', () => db.raw('TRUNCATE gifts, people RESTART IDENTITY CASCADE'))
 
-  afterEach('cleanup', () => db.raw('TRUNCATE gifts RESTART IDENTITY CASCADE'))
+  afterEach('cleanup', () => db.raw('TRUNCATE gifts, people RESTART IDENTITY CASCADE'))
 
 //1 DESCRIBE - get gifts endpoint
   describe(' 1 GET /api/gifts', () => {
@@ -34,12 +35,16 @@ describe('Gifts Endpoints', function() {
 //1B - CONTEXT to gifts endpoint - given there are gifts in the db
     context('1B Given there are gifts in the database', () => {
       const testGifts = makeGiftsArray()
+      const testPeople = makePeopleArray()
+
       beforeEach('insert gifts', () => {
         return db
-          .into('gifts')
-          .insert(testGifts)
+          .into('people')
+          .insert(testPeople)
           .then(() => {
             return db
+              .into('gifts')
+              .insert(testGifts)
           })
       })
 
@@ -62,20 +67,24 @@ describe(` 2 GET /api/gifts/:gift_id`, () => {
             .expect(404, { error: { message: `Gift not found` } })
          })
       })
+
 //2B CONTEXT - to gifts by id - given there are gifts by id in db
   context('2B Given there are gifts in the database', () => {
     const testGifts = makeGiftsArray()
+    const testPeople = makePeopleArray()
 
     beforeEach('insert gifts', () => {
       return db
-        .into('gifts')
-        .insert(testGifts)
+        .into('people')
+        .insert(testPeople)
         .then(() => {
           return db
+          .into('gifts')
+          .insert(testGifts)
         })
       })
       
-    it('responds with 200 and the specified book', () => {
+    it('responds with 200 and the specified gift', () => {
       const giftId = 2
       const expectedGift = testGifts[giftId - 1]
       return supertest(app)
@@ -84,12 +93,26 @@ describe(` 2 GET /api/gifts/:gift_id`, () => {
       })
     })
   })
+
 //3 DESCRIBE - POST gifts by id  
   describe(` 3 POST /api/gifts`, () => {
+    const testGifts = makeGiftsArray()
+    const testPeople = makePeopleArray()
+
+    beforeEach('insert malicious article', () => {
+      return db
+      .into('people')
+      .insert(testPeople)
+      .then(() => {
+        return db
+        .into('gifts')
+        .insert(testGifts)
+      })
+    })
 
     it(`creates a gift, responding with 201 and the new gift`,  function() {
-      this.retries(3)
       const newGift = {
+        id: 11,
         gift_name: 'New test Gift',
         person: 1
       }
@@ -143,13 +166,16 @@ describe(` 2 GET /api/gifts/:gift_id`, () => {
     //4B CONTEXT - given there are gifts by id to delete
     context('4B Given there are gifts in the database', () => {
       const testGifts = makeGiftsArray()
+      const testPeople = makePeopleArray()
   
       beforeEach('insert gift', () => {
         return db
+        .into('people')
+        .insert(testPeople)
+        .then(() => {
+          return db
           .into('gifts')
-          .insert(testGift)
-          .then(() => {
-            return db
+          .insert(testGifts)
           })
         })
       
@@ -181,13 +207,16 @@ describe(` 2 GET /api/gifts/:gift_id`, () => {
     //5B CONTEXT given there are gifts in the database
     context('5B Given there are gifts in the database', () => {
       const testGifts = makeGiftsArray()
-        
+      const testPeople = makePeopleArray()
+
       beforeEach('insert gifts', () => {
         return db
+        .into('people')
+        .insert(testPeople)
+        .then(() => {
+          return db
           .into('gifts')
           .insert(testGifts)
-          .then (() => {
-            return db
           })
       })
         
@@ -217,7 +246,7 @@ describe(` 2 GET /api/gifts/:gift_id`, () => {
           .send({ irrelevantField: 'foo' })
           .expect(400, {
             error: {
-              message: `Request body must contain 'gift_name'.`
+              message: `Request body must contain 'gift name'.`
             }
           })
       })

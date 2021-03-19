@@ -12,7 +12,7 @@ const serializePerson = person => ({
   id: person.id,
   first_name: xss(person.first_name),
   last_name: xss(person.last_name),
-  birthday: xss(person.birthday),
+  birthday: person.birthday.toISOString(),
 })
 
 peopleRouter

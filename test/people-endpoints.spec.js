@@ -17,7 +17,7 @@ describe('People Endpoints', function() {
 
   after('disconnect from db', () => db.destroy())
 
-  before('clean the table', () => db('people'))
+  before('clean the table', () => db.raw('TRUNCATE people RESTART IDENTITY CASCADE'))
 
   afterEach('cleanup', () => db.raw('TRUNCATE people RESTART IDENTITY CASCADE'))
 
@@ -92,7 +92,7 @@ describe(` 2 GET /api/people/:person_id`, () => {
       const newPerson = {
         first_name: 'New Person FN',
         last_name: 'New Person LN',
-        birthday: '2000-01-31'
+        birthday: new Date('2000-01-31').toISOString()
       }
     return supertest(app)
       .post('/api/people')
@@ -100,8 +100,13 @@ describe(` 2 GET /api/people/:person_id`, () => {
       .expect(201)
       .expect(res => {
         expect(res.body.first_name).to.eql(newPerson.first_name)
+        expect(res.body.last_name).to.eql(newPerson.last_name)
+        expect(res.body.birthday).to.eql(newPerson.birthday)
         expect(res.body).to.have.property('id')
         expect(res.headers.location).to.eql(`/api/people/${res.body.id}`)
+        // const expected = new Date().toISOString()
+        // const actual = new Date(res.body.birthday).toUTCString()
+        // expect(actual).to.eql(expected)
       })
       .then(postRes =>
         supertest(app)
@@ -116,7 +121,7 @@ describe(` 2 GET /api/people/:person_id`, () => {
     const newPerson = {
       first_name: 'New Person FN',
       last_name: 'New Person LN',
-      birthday: '2000-01-31'
+      birthday: new Date('2000-01-31')
     }
 
     it(`responds with 400 and an error message when the '${field}' is missing`, () => {
@@ -197,9 +202,11 @@ describe(` 2 GET /api/people/:person_id`, () => {
         const idToUpdate = 2
         const updatePerson = {
           first_name: 'updated person name',
+          last_name: 'Bryant',
+          birthday: new Date('1975-09-25').toISOString()
         }
         const expectedPerson = {
-          ...testPerson[idToUpdate - 1],
+          ...testPeople[idToUpdate - 1],
           ...updatePerson
         }
         return supertest(app)
