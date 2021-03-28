@@ -11,6 +11,7 @@ const bodyParser = express.json()
 const serializeGift = gift => ({
   id: gift.id,
   gift_name: xss(gift.gift_name),
+  checked: gift.checked,
   person: gift.person
 })
 

@@ -1,18 +1,21 @@
-const express = require('express')
-const logger = require('../logger')
-const xss = require('xss')
-const path = require('path')
-const PeopleService = require('./people-service')
-const { getPeopleValidationError } = require('./people-validator')
-const peopleRouter = express.Router()
+const express = require('express');
+const logger = require('../logger');
+const xss = require('xss');
+const path = require('path');
+const PeopleService = require('./people-service');
+const { getPeopleValidationError } = require('./people-validator');
+const peopleRouter = express.Router();
 //use the express.json() middleware to parse the body of request
-const bodyParser = express.json()
+const bodyParser = express.json();
+const moment = require('moment');
 
 const serializePerson = person => ({
   id: person.id,
   first_name: xss(person.first_name),
   last_name: xss(person.last_name),
-  birthday: person.birthday.toISOString(),
+  birthday: moment.parseZone(person.birthday).format('M/D/YYYY')
+  // birthday: new Date(person.birthday).toLocaleDateString()
+  // birthday: person.birthday.toISOString(),
 })
 
 peopleRouter

@@ -1,6 +1,6 @@
 const GiftsService = {
   getAllGifts(knex) {
-    return knex.select('*').from('gifts')
+    return knex.select('*').from('gifts').orderBy('gift_name')
   },
   getGiftById(knex, id) {
     return knex.from('gifts').select('*').where('id', id).first()

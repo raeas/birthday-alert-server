@@ -1,6 +1,6 @@
 const PeopleService = {
   getAllPeople(knex) {
-    return knex.select('*').from('people')
+    return knex.select('*').from('people').orderBy('first_name')
   },
   getPersonById(knex, id) {
     return knex.from('people').select('*').where('id', id).first()
