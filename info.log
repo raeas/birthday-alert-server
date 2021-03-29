@@ -1832,3 +1832,5 @@
 {"message":"Person with id 60 created.","level":"info"}
 {"message":"Person with id 61 created.","level":"info"}
 {"message":"Person with id 11 created.","level":"info"}
+{"message":"Unable to acquire a connection","level":"error"}
+{"message":"Unable to acquire a connection","level":"error"}
