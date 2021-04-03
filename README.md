@@ -1,9 +1,9 @@
-# Birtday Alert Server
+# Birthday Alert Server
 This is the server for the Birthday Alert app where you can keep a list of people's birthdays and create a list of gift ideas for each person on your birthday list.
 
 -----
 ### Link to live app
-Live version of the app can be found here <a href = "https://birthday-alert-client.vercel.app/">https://birthday-alert-client.vercel.app/</a>
+Live version of the app can be found here: <a href = "https://birthday-alert-client.vercel.app/">https://birthday-alert-client.vercel.app/</a>
 
 ### API Base url
 <a href = "https://desolate-sea-54001.herokuapp.com/api">https://desolate-sea-54001.herokuapp.com/api</a>
@@ -43,7 +43,7 @@ Error Response: 404 Not Found
 
 
 `POST /api/people`  
-Description:   Add a person to the birthday list. Required fields are "first_name" and "birthday". 
+Description:   Add a person to the birthday list. Required fields are "first_name" and "birthday".  
 Data Example:  
 ```
 {
@@ -84,17 +84,17 @@ Description:  Gets a list of all gifts.
 Data Example:  
 ```
 {
-  id: 3,
+  id: 1,
   gift_name: "Earrings",
   person: 3
 },
 {
-  id: 1,
+  id: 2,
   gift_name: "Hula hoop",
   person: 1
 },
 {
-  id: 2,
+  id: 3,
   gift_name: "Sidewalk chalk",
   person: 2
 }
@@ -103,7 +103,7 @@ Success Response: 200 OK
 Error Response: 404 Not Found
 
 `POST /api/gifts`  
-Description:   Add a gift to a person's gift list. Required fields are "gift_name" and "person".
+Description:   Add a gift to a person's gift list. Required fields are "gift_name" and "person".  
 Data Example:  
 ```
 {
@@ -133,7 +133,7 @@ Error Response: 400 Bad Request - "'${field}' is required'"
 `DELETE /api/gifts/${giftId}`  
 Description: Deletes a gift       
 Success Response: 200 OK  
-Error Response: 404 Not Found - "Person Not Found"  
+Error Response: 404 Not Found - "Gift Not Found"  
 
 
 ### Tech Stack
