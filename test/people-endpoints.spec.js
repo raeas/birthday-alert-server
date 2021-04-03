@@ -3,6 +3,7 @@ const knex = require('knex')
 const supertest = require('supertest')
 const app = require('../src/app')
 const { makePeopleArray } = require('./people.fixtures')
+const moment = require('moment');
 
 describe('People Endpoints', function() {
   let db
@@ -92,7 +93,7 @@ describe(` 2 GET /api/people/:person_id`, () => {
       const newPerson = {
         first_name: 'New Person FN',
         last_name: 'New Person LN',
-        birthday: new Date('2000-01-31').toISOString()
+        birthday: '1/31/2000'
       }
     return supertest(app)
       .post('/api/people')
@@ -104,9 +105,6 @@ describe(` 2 GET /api/people/:person_id`, () => {
         expect(res.body.birthday).to.eql(newPerson.birthday)
         expect(res.body).to.have.property('id')
         expect(res.headers.location).to.eql(`/api/people/${res.body.id}`)
-        // const expected = new Date().toISOString()
-        // const actual = new Date(res.body.birthday).toUTCString()
-        // expect(actual).to.eql(expected)
       })
       .then(postRes =>
         supertest(app)
@@ -203,7 +201,7 @@ describe(` 2 GET /api/people/:person_id`, () => {
         const updatePerson = {
           first_name: 'updated person name',
           last_name: 'Bryant',
-          birthday: new Date('1975-09-25').toISOString()
+          birthday: moment.parseZone('1975-09-25').format('M/D/YYYY')
         }
         const expectedPerson = {
           ...testPeople[idToUpdate - 1],

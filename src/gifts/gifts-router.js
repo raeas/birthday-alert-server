@@ -5,7 +5,6 @@ const path = require('path')
 const GiftsService = require('./gifts-service')
 const { getGiftsValidationError } = require('./gifts-validator')
 const giftsRouter = express.Router()
-//use the express.json() middleware to parse the body of request
 const bodyParser = express.json()
 
 const serializeGift = gift => ({
@@ -98,9 +97,6 @@ giftsRouter
       .then(updatedGift => {
         res.status(204).end()
       })
-      // .then(updatedPerson => {
-      //   res.status(204).json(serializePerson(updatedPerson[0]))
-      // })
       .catch(next)
   })
   .delete((req, res, next) => {

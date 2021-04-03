@@ -114,7 +114,8 @@ describe(` 2 GET /api/gifts/:gift_id`, () => {
       const newGift = {
         id: 11,
         gift_name: 'New test Gift',
-        person: 1
+        person: 1,
+        checked: false
       }
     return supertest(app)
       .post('/api/gifts')

@@ -1,49 +1,28 @@
 function makeGiftsArray() {
   return [
     {
+      id: 3,
+      gift_name: "Earrings",
+      checked: false,
+      person: 3
+    },
+    {
       id: 1,
       gift_name: "Hula hoop",
+      checked: false,
       person: 1
     },
     {
       id: 2,
       gift_name: "Sidewalk chalk",
+      checked: false,
       person: 2
-    },
-    {
-      id: 3,
-      gift_name: "Earrings",
-      person: 3
     },
     {
       id: 4,
       gift_name: "T-shirt",
+      checked: false,
       person: 4
-    },
-    {
-      id: 5,
-      gift_name: "Chocolates",
-      person: 1
-    },
-    {
-      id: 6,
-      gift_name: "Gift Card",
-      person: 2
-    },
-    {
-      id: 7,
-      gift_name: "Beach towel",
-      person: 3
-    },
-    {
-      id: 8,
-      gift_name: "Magnets",
-      person: 4
-    },
-    {
-      id: 9,
-      gift_name: "Lint roller",
-      person: 1
     }
   ]
 }
